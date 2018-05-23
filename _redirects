@@ -1,0 +1,5 @@
+# Redirect default Netlify subdomain to primary domain
+http://adoring-kalam-292346.netlify.com/* https://gamer.whyking.one/:splat 301!
+
+https://whyking.one/* https://gamer.whyking.one/:splat 301!
+https://www.whyking.one/* https://gamer.whyking.one/:splat 301!
