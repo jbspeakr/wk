@@ -52,7 +52,6 @@ feed:
 # The same for page.html and tag.html layouts
 # Post's page cover as a per-post basis _posts/...
 # Disqus comments as a per-post basis
-# ...
 
 exclude:
   - assets/css
