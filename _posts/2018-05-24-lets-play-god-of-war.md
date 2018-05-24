@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/2018/god-of-war-lets-play.jpg
 navigation: True
-title: Let's Play – God of War
+title: Let's Play God of War
 date: 2018-05-24 10:00:00
 tags: ["lets play"]
 class: post-template
