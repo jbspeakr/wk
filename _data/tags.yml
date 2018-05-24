@@ -1,5 +1,5 @@
-speeches:
-  name: speeches
+letsplay:
+  name: Let's Play
   description: Some of the greatest words ever spoken.
   cover: assets/images/speeches.jpg
 fiction:

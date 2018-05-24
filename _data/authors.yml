@@ -3,10 +3,10 @@ whyking:
   name: Gamer Whyking One
   url_full: https://www.youtube.com/channel/UCo_kwCTOLMHBrBwGUoyPNyg/
   url: youtube.com/whyking
-  bio: Gamer WhyKing bringt euch fette Let's Plays mit ganz viel Bumms und Trallala. Jetzt folgen und +5 Spielspaß und das Tiara der Unterhaltung für deinen Helden sichern!
-  picture: assets/images/hannah.jpg
-  facebook: whyking
-  twitter: whyking
+  bio: Fette Let's Plays und Walkthroughs mit ganz viel Bumms und Trallala, sowie konkrete Meinungen und Game-Reviews. Dafür steh' ich mit meinem Namen. 
+  picture: assets/images/gamer-whyking.jpg
+  facebook: False
+  twitter: False
   cover: assets/images/hannah-cover.jpg
 ghost:
   username: ghost

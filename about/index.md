@@ -8,10 +8,12 @@ class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+Hallo Freunde des konkreten Gamings, mein Name ist Jan und ich bin euer **Gamer Whyking One**. 
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+> [Jetzt abonnieren](https://www.youtube.com/channel/UCo_kwCTOLMHBrBwGUoyPNyg) und +5 Spielspaß und das Tiara der Unterhaltung für deinen Helden sichern!
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+Auf meinem Blog findet ihr Hintergrundinfos und Meinungen zu den Games und Let's Plays auf meinem Youtube Channel. Zudem verrühre ich liebevoll Tipps zum Aufnehmen von Gameplay mit feinen Let's Play Tricks für Anfänger und Neueinsteiger zu einem informativen Text-Brei.
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+Also schnallt euch an, lehnt euch zurück und genießt meine fetten Let's Plays mit ganz viel Bumms und Trallala.
+
+Euer Gamer Whyking One.
