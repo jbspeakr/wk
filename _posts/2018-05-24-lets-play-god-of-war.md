@@ -29,4 +29,4 @@ Richtig gut überzeugt nicht nur Kratos beim Umgang mit seiner magischen Kriegsa
 
 Alles in Allem ist [God of War](https://amzn.to/2s3AKO2) nicht nur ein hervorragender Zeitvertreib, sondern macht auch noch Bock tiefer in die nordische Götterwelt und ihre Sagen einzutauchen. Definitiv ein Spiel für alle Wikinger und die, die es noch werden wollen.
 
-_[Jetzt meinen Channel abonnieren](https://www.youtube.com/channel/UCo_kwCTOLMHBrBwGUoyPNyg) und +5 Spielspaß sowie das Tiara der Unterhaltung für deinen Helden sichern!_
+_[Jetzt meinen Kanal abonnieren](https://www.youtube.com/channel/UCo_kwCTOLMHBrBwGUoyPNyg) und +5 Spielspaß sowie das Tiara der Unterhaltung für deinen Helden sichern!_
