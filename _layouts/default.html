@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-
     <!-- Document Settings -->
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
     <!-- Base Meta -->
     {% include dynamic_title.html %}
     <title>{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if paginator and paginator.page != 1 or page.url contains 'tag/' %}{% assign postTitles = paginator.posts | map: 'title' | join: ', ' %}{{ postTitles | truncate: 160 }}{% elsif page.description %}{{ page.description | truncate: 160 }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}" />
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
@@ -18,10 +17,8 @@
     <!-- highlight.js -->
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
     <style>.hljs { background: none; }</style>
-
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     {% include head.html %}
-
 </head>
 <body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">
 

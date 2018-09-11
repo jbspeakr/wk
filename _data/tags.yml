@@ -1,16 +1,12 @@
-letsplay:
-  name: Let's Play
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
-  cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
+lets-play:
+  name: lets-play
+  description: Total abgezockt und konkret angespielt.
+  cover: assets/images/lets-play-whyking.jpg
 getting-started:
   name: getting-started
-  description: False
-  cover: False
+  description: Some of the greatest words ever spoken.
+  cover: assets/images/speeches.jpg
+ps4-games:
+  name: ps4-games
+  description: Some of the greatest words ever spoken.
+  cover: assets/images/speeches.jpg

@@ -5,10 +5,11 @@ cover:  assets/images/2018/god-of-war-lets-play.jpg
 navigation: True
 title: Let's Play God of War
 date: 2018-05-24 10:00:00
-tags: ["lets play"]
+tags: ["Lets Play"]
 class: post-template
 subclass: 'post tag-lets-play'
 author: whyking
+permalink: /lets-play-god-of-war
 ---
 
 Mit Kratos und Atreus nordische Götter und Monster vermöbeln bis der Arzt kommt...
