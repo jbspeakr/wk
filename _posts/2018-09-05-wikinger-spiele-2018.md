@@ -43,4 +43,4 @@ Für Fans des Action-Adventure Genres ist [**God of War**](https://amzn.to/2x0go
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3t-EZAk_bZA?list=PLBMq2CSmlmvlpNv0UEIUcyVwBvSWAektW" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-_[Jetzt meinen Kanal abonnieren](https://www.youtube.com/channel/UCo_kwCTOLMHBrBwGUoyPNyg) und noch mehr Wikinger-Spiele für die PS4 kennenlernen!_
+_[Jetzt meinen Kanal abonnieren](http://gmr.whyking.one/sub) und noch mehr Wikinger-Spiele für die PS4 kennenlernen!_
