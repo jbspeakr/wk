@@ -8,9 +8,9 @@ language: 'de-de'
 baseurl: /
 
 # Website info
-title: Gamer Whyking One
-subtitle: Let's Plays, Walkthroughs & Wikinger-Games
-description: Gamer Whyking One bringt euch fette Let's Plays und Walkthroughs zu den besten Wikinger-Games auf der PS4. 
+title: Gamer Whyking
+subtitle: Magic the Gathering & MTG Arena Gameplay
+description: Gamer Whyking ist MTG Collector und bringt euch Magic the Gathering Unboxings & MTG Arena Gameplay! 
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
