@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: whyking.one
+Token: 92ce51e79c00c7040612291de878e921e9f985b631c4cdb27e5874426b9f3034

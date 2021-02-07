@@ -58,6 +58,7 @@ feed:
 
 include:
   - '_redirects'
+  - '.well-known'
 
 exclude:
   - assets/css
