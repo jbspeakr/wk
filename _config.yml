@@ -29,7 +29,7 @@ facebook: False # replace by your username
 youtube: UCo_kwCTOLMHBrBwGUoyPNyg
 
 # Disqus
-disqus: True
+disqus: False
 disqus_shortname: gamer-whyking # replace with your disqus username
 
 # Permalinks
